@@ -63,22 +63,9 @@ Unlike the black-box nature of Deep Learning, XGBoost offers great interpretabil
 
 
 
-⚡ The Power Showdown: XGBoost vs Deep Learning vs Decision Trees
-
-Metric	XGBoost	Deep Learning	Decision Trees
-
-Training Speed	⚡ Fast	🐢 Slower on tabular data	⚡ Moderate
-
-Overfitting Control	⚡ High (Regularization)	🐢 Moderate	🐢 Prone to overfitting
-
-Interpretability	⚡ High (SHAP values)	🐢 Low (Black box)	⚡ Moderate
-
-Scalability	⚡ Highly Scalable	🐢 Scalable but slower	🐢 Scalable with limits
+🔍 Project Overview
 
 In this project, you will find how each model performs on a real-world risk prediction dataset, with XGBoost often excelling in structured data environments due to its speed, regularization, and ability to handle complex patterns effectively.
-
-
-🔍 Project Overview
 
 XGBoost: Trained with regularization to prevent overfitting.
 
